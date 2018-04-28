@@ -1,0 +1,51 @@
+.Borde{
+
+}
+.Nombre{
+  color: turquoise !important;
+font-size: 31px !important;
+}
+.ImgH{
+  margin-left: 51% !important;
+}
+.Imagenes {
+    border-radius: 50% 50%; 
+    box-shadow: 0px 0px 15px #000; 
+    padding:15px; 
+    background:#FFF; 
+    -moz-transition: all 1s;
+    -webkit-transition: all 1s;
+    -o-transition: all 1s;
+    margin: 2%;
+    margin-left: 1%;
+    }
+    .Imagenes:hover {
+    border-radius:0; 
+    -moz-transition: all 1s;
+    -webkit-transition: all 1s;
+    -o-transition: all 1s;
+    cursor:pointer;
+    background: #136E81; 
+    
+    }
+    .Titulo {
+      background: rgb(158, 165, 158);
+    }
+      .navbar{
+        margin:0;
+        border: antiquewhite;
+        font-size: 116%;
+          background-color: #4c8ea8 !important;        
+        color: #ffffff !important;
+          }
+      .form-group{
+      display: ruby !important;
+    }
+
+
+  a{
+    color: white;
+    margin-right: 14.5%;
+    width :100px;
+    white-space: nowrap;
+  }

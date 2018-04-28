@@ -1,0 +1,26 @@
+ /* .gaus {
+    color:transparent;
+    text-shadow:0 0 9px black;
+    margin:0 auto;
+    background:#BFCFCC;
+    width:580px;
+    position:relative;
+    height:200px;
+    padding:10px;
+    }
+    
+    .interno {
+    left:25%;
+    width:50%;
+    height:30%;
+    bottom:25%;
+    text-align:center;
+    padding:20px 10px;
+    position:absolute;
+    background:#FFCC00;
+    color:#222;
+    text-shadow:none;
+    border:1px solid #fff;
+    box-shadow:0 0 3px #222;
+    cursor:move;
+    } */

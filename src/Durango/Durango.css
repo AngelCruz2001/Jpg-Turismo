@@ -1,0 +1,58 @@
+video{
+    width: 100%;
+    height:auto;         
+    width: 100% !important;    
+    display: -moz-groupbox;   
+    overflow-y: auto !important;
+    overflow-x: auto;
+   }
+   
+   #Comida {
+    font-family: inherit;
+    font-size: 133%;
+    margin: 2%;
+   }
+
+   .CC{
+    background-color:#00ffb5 !important
+   }
+   .Rara1{
+       font-size: 100%;
+   }
+   .navbar{
+       margin:0;
+    background-color: #90f5e699;
+    border: antiquewhite;
+    font-size: 116%;
+}
+.Color{
+    color:white !important;
+}
+
+.trC:hover{
+    background-color:rgb(167, 225, 223) !important;
+}
+.aE{
+    width: 209px !important;
+}
+.hr1{
+    border-top: 10px solid #151515;
+}
+
+ .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+    background-color:#c33b3b ;
+ }
+ 
+ .dropbtn{
+    background-color: #43899c !important;
+}
+.dropdown{
+z-index: 1;
+}
+
+es {
+    filter: blur(0px)!important;
+}
+.MiFuente {
+    font-size: 2vw;
+}
